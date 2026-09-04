@@ -280,6 +280,6 @@ The prediction should not be treated as a definitive assessment of a student's a
 
 ## 👩‍💻 Author
 
-**Sakshi Ingale**
+**Sakshi**
 
 BCA – Data Science
