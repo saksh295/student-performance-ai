@@ -209,7 +209,7 @@ student-performance-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/saksh295/student-performance-ai>
 ```
 
 ### 2. Open the project folder
